@@ -4,7 +4,7 @@ These are custom functions that when added to the Google Script of a Google Spre
 This code was written in [Google Apps Script](https://developers.google.com/apps-script/reference/calendar/), which is Javascript based.  
 
 #Demo
-To see the script in action, first submit a request through this [form](https://docs.google.com/forms/d/1C8IHwFUlC_TD1JiKnmwoEfZTFceqGsb7FJmaoJkRvUU/viewform).  The password is currently set to 1234.  You'll be able to see the calendar event being added to this [calendar](https://www.google.com/calendar/embed?src=v65s78cschonjk2rtj4s7jeeng%40group.calendar.google.com&ctz=America/New_York) in real-time.  Feel free to play around with it.  You'll notice that an attempt to create an event that overlaps another event will not be successful.  Requests that don't enter the correct password will not be successful.  Keep an eye on your email, as an email is sent after every request either confirming you're event or explaining why it wasn't added.
+To see the script in action, first submit a request through this [form](https://docs.google.com/forms/d/1C8IHwFUlC_TD1JiKnmwoEfZTFceqGsb7FJmaoJkRvUU/viewform).  The password is currently set to 1234.  You'll be able to see the calendar event being added to this [calendar](https://www.google.com/calendar/embed?src=v65s78cschonjk2rtj4s7jeeng%40group.calendar.google.com&ctz=America/New_York) in real-time.  Feel free to play around with it.  You'll notice that an attempt to create an event that overlaps another event will not be successful.  Requests that don't enter the correct password will not be successful.  Keep an eye on your email, as an email is sent after every request either confirming your event or explaining why it wasn't added.
 
 
 #TO USE THIS SCRIPT
